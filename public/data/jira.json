@@ -1,0 +1,1662 @@
+[
+  {
+    "JIRA_Ticket_ID": "NS-101",
+    "Title": "Spike on llm extraction for scanned confirmations",
+    "Status": "Done",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-001"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-102",
+    "Title": "Refactor llm extraction for scanned confirmations",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-001"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-103",
+    "Title": "Wire up llm extraction for scanned confirmations",
+    "Status": "Done",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-001"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-104",
+    "Title": "Add tests for llm extraction for scanned confirmations",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-001"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-105",
+    "Title": "Load test break auto-resolution for cash reconciliation",
+    "Status": "Done",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-002"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-106",
+    "Title": "Refactor break auto-resolution for cash reconciliation",
+    "Status": "Done",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-002"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-107",
+    "Title": "Implement break auto-resolution for cash reconciliation",
+    "Status": "Done",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-002"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-108",
+    "Title": "Design sso and scim provisioning",
+    "Status": "Done",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-003"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-109",
+    "Title": "Implement sso and scim provisioning",
+    "Status": "In Progress",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-003"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-110",
+    "Title": "Implement sso and scim provisioning",
+    "Status": "In Progress",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-003"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-111",
+    "Title": "Spike on sso and scim provisioning",
+    "Status": "Done",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-003"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-112",
+    "Title": "Document sso and scim provisioning",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-003"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-113",
+    "Title": "Document audit trail export for regulators",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-004"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-114",
+    "Title": "Refactor audit trail export for regulators",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-004"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-115",
+    "Title": "Load test audit trail export for regulators",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-004"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-116",
+    "Title": "Spike on audit trail export for regulators",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-004"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-117",
+    "Title": "Document settlement fail prediction",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Litware Securities",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-005"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-118",
+    "Title": "Load test settlement fail prediction",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Litware Securities",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-005"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-119",
+    "Title": "Implement settlement fail prediction",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Litware Securities",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-005"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-120",
+    "Title": "Design settlement fail prediction",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Litware Securities",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-005"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-121",
+    "Title": "Add tests for custom gl mapping for northwind",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-006"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-122",
+    "Title": "Add tests for custom gl mapping for northwind",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-006"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-123",
+    "Title": "Spike on custom gl mapping for northwind",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-006"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-124",
+    "Title": "Add tests for custom gl mapping for northwind",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-006"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-125",
+    "Title": "Load test custom gl mapping for northwind",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-006"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-126",
+    "Title": "Spike on custom gl mapping for northwind",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-006"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-127",
+    "Title": "Load test custom gl mapping for northwind",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-006"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-128",
+    "Title": "Refactor claims email triage pilot",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Fabrikam Insurance",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-007"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-129",
+    "Title": "Document claims email triage pilot",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Fabrikam Insurance",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-007"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-130",
+    "Title": "Design claims email triage pilot",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Fabrikam Insurance",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-007"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-131",
+    "Title": "Load test human-in-the-loop review queue",
+    "Status": "Done",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-008"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-132",
+    "Title": "Wire up human-in-the-loop review queue",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-008"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-133",
+    "Title": "Design human-in-the-loop review queue",
+    "Status": "Done",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-008"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-134",
+    "Title": "Load test human-in-the-loop review queue",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-008"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-135",
+    "Title": "Refactor human-in-the-loop review queue",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-008"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-136",
+    "Title": "Load test human-in-the-loop review queue",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-008"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-137",
+    "Title": "Implement human-in-the-loop review queue",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-008"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-138",
+    "Title": "Refactor model evaluation harness",
+    "Status": "In Progress",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-009"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-139",
+    "Title": "Wire up model evaluation harness",
+    "Status": "Blocked",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-009"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-140",
+    "Title": "Refactor model evaluation harness",
+    "Status": "Blocked",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-009"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-141",
+    "Title": "Spike on model evaluation harness",
+    "Status": "In Progress",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-009"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-142",
+    "Title": "Wire up prompt injection guardrails",
+    "Status": "In Progress",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-010"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-143",
+    "Title": "Document prompt injection guardrails",
+    "Status": "Code Review",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-010"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-144",
+    "Title": "Document prompt injection guardrails",
+    "Status": "In Progress",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-010"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-145",
+    "Title": "Spike on prompt injection guardrails",
+    "Status": "In Progress",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-010"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-146",
+    "Title": "Add tests for executive kpi pack",
+    "Status": "Done",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-011"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-147",
+    "Title": "Implement executive kpi pack",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-011"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-148",
+    "Title": "Implement executive kpi pack",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-011"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-149",
+    "Title": "Load test executive kpi pack",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-011"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-150",
+    "Title": "Design executive kpi pack",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-011"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-151",
+    "Title": "Wire up executive kpi pack",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-011"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-152",
+    "Title": "Document executive kpi pack",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-011"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-153",
+    "Title": "Wire up exception aging report",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-012"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-154",
+    "Title": "Design exception aging report",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-012"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-155",
+    "Title": "Add tests for exception aging report",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-012"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-156",
+    "Title": "Spike on exception aging report",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-012"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-157",
+    "Title": "Refactor exception aging report",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-012"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-158",
+    "Title": "Load test exception aging report",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-012"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-159",
+    "Title": "Refactor standing instruction validation",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-013"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-160",
+    "Title": "Add tests for standing instruction validation",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-013"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-161",
+    "Title": "Spike on standing instruction validation",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-013"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-162",
+    "Title": "Add tests for standing instruction validation",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-013"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-163",
+    "Title": "Add tests for standing instruction validation",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-013"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-164",
+    "Title": "Wire up standing instruction validation",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-013"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-165",
+    "Title": "Implement member correspondence classifier",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Contoso Credit Union",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-014"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-166",
+    "Title": "Add tests for member correspondence classifier",
+    "Status": "In Progress",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Contoso Credit Union",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-014"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-167",
+    "Title": "Document member correspondence classifier",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Contoso Credit Union",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-014"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-168",
+    "Title": "Design member correspondence classifier",
+    "Status": "In Progress",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Contoso Credit Union",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-014"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-169",
+    "Title": "Document member correspondence classifier",
+    "Status": "In Progress",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Contoso Credit Union",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-014"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-170",
+    "Title": "Wire up member correspondence classifier",
+    "Status": "Code Review",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Contoso Credit Union",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-014"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-171",
+    "Title": "Add tests for member correspondence classifier",
+    "Status": "Code Review",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Contoso Credit Union",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-014"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-172",
+    "Title": "Refactor multi-entity ledger support",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-015"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-173",
+    "Title": "Refactor multi-entity ledger support",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-015"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-174",
+    "Title": "Implement multi-entity ledger support",
+    "Status": "Code Review",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-015"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-175",
+    "Title": "Implement multi-entity ledger support",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-015"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-176",
+    "Title": "Wire up multi-entity ledger support",
+    "Status": "In Progress",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-015"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-177",
+    "Title": "Document public rest api v2",
+    "Status": "To Do",
+    "Category": "API Development",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-016"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-178",
+    "Title": "Design public rest api v2",
+    "Status": "Code Review",
+    "Category": "API Development",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-016"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-179",
+    "Title": "Refactor public rest api v2",
+    "Status": "In Progress",
+    "Category": "API Development",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-016"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-180",
+    "Title": "Document public rest api v2",
+    "Status": "Code Review",
+    "Category": "API Development",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-016"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-181",
+    "Title": "Refactor public rest api v2",
+    "Status": "Done",
+    "Category": "API Development",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-016"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-182",
+    "Title": "Design webhook event stream",
+    "Status": "Blocked",
+    "Category": "API Development",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-017"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-183",
+    "Title": "Design webhook event stream",
+    "Status": "In Progress",
+    "Category": "API Development",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-017"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-184",
+    "Title": "Wire up webhook event stream",
+    "Status": "Blocked",
+    "Category": "API Development",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-017"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-185",
+    "Title": "Spike on data residency in canada region",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-018"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-186",
+    "Title": "Refactor data residency in canada region",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-018"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-187",
+    "Title": "Implement data residency in canada region",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-018"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-188",
+    "Title": "Design data residency in canada region",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-018"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-189",
+    "Title": "Implement table extraction accuracy uplift",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-019"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-190",
+    "Title": "Spike on table extraction accuracy uplift",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-019"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-191",
+    "Title": "Wire up table extraction accuracy uplift",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-019"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-192",
+    "Title": "Design table extraction accuracy uplift",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-019"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-193",
+    "Title": "Load test table extraction accuracy uplift",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-019"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-194",
+    "Title": "Design corporate action notice parsing",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Adatum Asset Management",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-020"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-195",
+    "Title": "Load test corporate action notice parsing",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Adatum Asset Management",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-020"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-196",
+    "Title": "Spike on corporate action notice parsing",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Adatum Asset Management",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-020"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-197",
+    "Title": "Design corporate action notice parsing",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Adatum Asset Management",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-020"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-198",
+    "Title": "Spike on reconciliation rules builder ui",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-021"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-199",
+    "Title": "Refactor reconciliation rules builder ui",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-021"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-200",
+    "Title": "Load test reconciliation rules builder ui",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-021"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-201",
+    "Title": "Refactor cost per task metering",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-022"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-202",
+    "Title": "Implement cost per task metering",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-022"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-203",
+    "Title": "Document cost per task metering",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-022"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-204",
+    "Title": "Load test cost per task metering",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-022"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-205",
+    "Title": "Document soc 2 evidence automation",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-023"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-206",
+    "Title": "Load test soc 2 evidence automation",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-023"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-207",
+    "Title": "Implement soc 2 evidence automation",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-023"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-208",
+    "Title": "Spike on fix duplicate alerts on retries",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-024"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-209",
+    "Title": "Spike on fix duplicate alerts on retries",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-024"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-210",
+    "Title": "Load test fix duplicate alerts on retries",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-024"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-211",
+    "Title": "Design fix timezone drift in cutoffs",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Litware Securities",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-025"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-212",
+    "Title": "Wire up fix timezone drift in cutoffs",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Litware Securities",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-025"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-213",
+    "Title": "Wire up fix timezone drift in cutoffs",
+    "Status": "In Progress",
+    "Category": "Bug Fixes",
+    "Client_Name": "Litware Securities",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-025"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-214",
+    "Title": "Spike on northwind data migration",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-026"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-215",
+    "Title": "Load test northwind data migration",
+    "Status": "In Progress",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-026"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-216",
+    "Title": "Spike on northwind data migration",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-026"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-217",
+    "Title": "Refactor northwind data migration",
+    "Status": "Code Review",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-026"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-218",
+    "Title": "Design northwind data migration",
+    "Status": "Done",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Northwind Bank",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-026"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-219",
+    "Title": "Add tests for model routing for cost control",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-027"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-220",
+    "Title": "Design model routing for cost control",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-027"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-221",
+    "Title": "Load test model routing for cost control",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-027"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-222",
+    "Title": "Load test model routing for cost control",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-027"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-223",
+    "Title": "Add tests for model routing for cost control",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-027"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-224",
+    "Title": "Wire up model routing for cost control",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-027"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-225",
+    "Title": "Wire up model routing for cost control",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-027"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-226",
+    "Title": "Document agent run replay and debugging",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-028"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-227",
+    "Title": "Refactor agent run replay and debugging",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-028"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-228",
+    "Title": "Wire up agent run replay and debugging",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-028"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-229",
+    "Title": "Add tests for agent run replay and debugging",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-028"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-230",
+    "Title": "Spike on underwriting document pack",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Fabrikam Insurance",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-029"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-231",
+    "Title": "Refactor underwriting document pack",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Fabrikam Insurance",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-029"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-232",
+    "Title": "Document underwriting document pack",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Fabrikam Insurance",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-029"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-233",
+    "Title": "Wire up underwriting document pack",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Fabrikam Insurance",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-029"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-234",
+    "Title": "Wire up underwriting document pack",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Fabrikam Insurance",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-029"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-235",
+    "Title": "Refactor trust account statement matching",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-030"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-236",
+    "Title": "Spike on trust account statement matching",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-030"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-237",
+    "Title": "Wire up trust account statement matching",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-030"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-238",
+    "Title": "Document trust account statement matching",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-030"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-239",
+    "Title": "Implement trust account statement matching",
+    "Status": "To Do",
+    "Category": "Client-Specific Work",
+    "Client_Name": "Woodgrove Trust",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-030"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-240",
+    "Title": "Load test role-based access by desk",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-031"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-241",
+    "Title": "Add tests for role-based access by desk",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-031"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-242",
+    "Title": "Implement role-based access by desk",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-031"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-243",
+    "Title": "Wire up role-based access by desk",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-031"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-244",
+    "Title": "Implement email reply drafting",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-032"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-245",
+    "Title": "Document email reply drafting",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-032"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-246",
+    "Title": "Implement email reply drafting",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-032"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-247",
+    "Title": "Load test benchmark dashboard for clients",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-033"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-248",
+    "Title": "Design benchmark dashboard for clients",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-033"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-249",
+    "Title": "Design benchmark dashboard for clients",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-033"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-250",
+    "Title": "Load test benchmark dashboard for clients",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-033"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-251",
+    "Title": "Design retry and dead-letter handling",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-034"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-252",
+    "Title": "Refactor retry and dead-letter handling",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-034"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-253",
+    "Title": "Add tests for retry and dead-letter handling",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-034"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-254",
+    "Title": "Load test retry and dead-letter handling",
+    "Status": "To Do",
+    "Category": "Core Infrastructure",
+    "Client_Name": "Internal",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-034"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-255",
+    "Title": "Wire up fix pdf page order on upload",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-035"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-256",
+    "Title": "Implement fix pdf page order on upload",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-035"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-257",
+    "Title": "Refactor fix pdf page order on upload",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-035"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-258",
+    "Title": "Document fix pdf page order on upload",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-035"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-259",
+    "Title": "Implement fix pdf page order on upload",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "XL",
+    "Story_Points": 13,
+    "Mapped_Feature_ID": "F-035"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-260",
+    "Title": "Implement fix pdf page order on upload",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "L",
+    "Story_Points": 8,
+    "Mapped_Feature_ID": "F-035"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-261",
+    "Title": "Load test fix pdf page order on upload",
+    "Status": "To Do",
+    "Category": "Bug Fixes",
+    "Client_Name": "Multiple",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-035"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-262",
+    "Title": "Load test settlement netting simulator",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-036"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-263",
+    "Title": "Document settlement netting simulator",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-036"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-264",
+    "Title": "Design settlement netting simulator",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "M",
+    "Story_Points": 5,
+    "Mapped_Feature_ID": "F-036"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-265",
+    "Title": "Load test settlement netting simulator",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-036"
+  },
+  {
+    "JIRA_Ticket_ID": "NS-266",
+    "Title": "Implement settlement netting simulator",
+    "Status": "To Do",
+    "Category": "Platform Improvements",
+    "Client_Name": "Tailspin Capital",
+    "Effort_T_Shirt_Size": "S",
+    "Story_Points": 2,
+    "Mapped_Feature_ID": "F-036"
+  }
+]
